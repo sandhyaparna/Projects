@@ -17,9 +17,9 @@
 * Type of events at Fringe festival https://towardsdatascience.com/nlp-on-edinburgh-fringe-2019-data-aa71dca818b4
 
 ### Recommendation
-Airbnb New User Bookings https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings
-Santander Product Recommendation https://www.kaggle.com/c/santander-product-recommendation/data
-
+* Airbnb New User Bookings https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings
+* Santander Product Recommendation https://www.kaggle.com/c/santander-product-recommendation/data
+* Elo Merchant Category Recommendation https://www.kaggle.com/c/elo-merchant-category-recommendation
 
 
 
