@@ -22,8 +22,8 @@ Details of a sample of campaigns and coupons used in previous campaigns:
 * Item Data: Item information for each item sold by the retailer
 * Test: Contains the coupon customer combination for which redemption status was to be predicted
 
-<img src='AmExpert_table.png'>
 
+<img src='AmExpert_table.png'>
 
 
 ### Notes
