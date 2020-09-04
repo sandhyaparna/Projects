@@ -12,7 +12,7 @@
 * New entrants are prohibited, you won't be able to download data for this competition
 * Dato: Truly Native? [274 teams] https://www.kaggle.com/c/dato-native
 * The Allen AI Science Challenge [170 teams] https://www.kaggle.com/c/the-allen-ai-science-challenge
-* 
+* Spooky Author Identification - https://www.kaggle.com/c/spooky-author-identification/overview
 * 
 * Type of events at Fringe festival https://towardsdatascience.com/nlp-on-edinburgh-fringe-2019-data-aa71dca818b4
 
