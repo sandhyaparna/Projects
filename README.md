@@ -10,6 +10,8 @@ https://paperswithcode.com/area/natural-language-processing </br>
 * Quora Insincere Questions Classification - https://www.kaggle.com/c/quora-insincere-questions-classification/overview
 * Quora Question Pairs - https://www.kaggle.com/c/quora-question-pairs
 
+Ideas Links
+* https://github.com/NirantK/awesome-project-ideas
 
 
 
