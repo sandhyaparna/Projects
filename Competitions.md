@@ -21,9 +21,8 @@
 * Santander Product Recommendation https://www.kaggle.com/c/santander-product-recommendation/data
 * Elo Merchant Category Recommendation https://www.kaggle.com/c/elo-merchant-category-recommendation
 
-
-
-
+### ML/AI
+* “8 ML/AI Projects To Make Your Portfolio Stand Out” by Kajal Yadav https://link.medium.com/RVyUmY2Su9
 
 
 
