@@ -14,7 +14,7 @@ https://paperswithcode.com/area/natural-language-processing </br>
 * Identifying author of email - enron dataset
 * Call center records classification - Major Insurance provider
 * Predicting Heart warming stories for The Positive India
-* Similarity of Questions - Quora
+* Similarity of Questions - Quora. Paraphrase-Identification-Task (Paraphrase detection is the task of examining two text entities (ex. sentence) and determining whether they have the same meaning) - https://github.com/wasiahmad/paraphrase_identification
 
 Ideas Links
 * https://github.com/NirantK/awesome-project-ideas
