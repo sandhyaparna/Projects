@@ -9,6 +9,12 @@ https://paperswithcode.com/area/natural-language-processing </br>
 * TREC-COVID Information Retrieval - https://www.kaggle.com/c/trec-covid-information-retrieval/overview
 * Quora Insincere Questions Classification - https://www.kaggle.com/c/quora-insincere-questions-classification/overview
 * Quora Question Pairs - https://www.kaggle.com/c/quora-question-pairs
+* Deception Spam in reviews Detection - booking.com
+* Review Analytics on Amazon ratings
+* Identifying author of email - enron dataset
+* Call center records classification - Major Insurance provider
+* Predicting Heart warming stories for The Positive India
+* Similarity of Questions - Quora
 
 Ideas Links
 * https://github.com/NirantK/awesome-project-ideas
