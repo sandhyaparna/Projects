@@ -18,7 +18,7 @@ https://paperswithcode.com/area/natural-language-processing </br>
 
 Ideas Links
 * https://github.com/NirantK/awesome-project-ideas
-
+* https://github.com/susanli2016/NLP-with-Python
 
 
 
